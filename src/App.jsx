@@ -1,12 +1,12 @@
 import React from "react";
 import FruitShop from "../components/FruitShop";
+import './App.css'
 
+function App() {
 
-
-const Index = () => {
   return (
     <FruitShop></FruitShop>
   );
-};
+}
 
-export default Index;
+export default App

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
-import Product from "@/components/Product";
-import ProductShop from '@/components/ProductShop';
-import Ticket from '@/components/Ticket';
+import Product from "../components/Product";
+import ProductShop from '../components/ProductShop';
+import Ticket from '../components/Ticket';
 
 const productes = [
   {
