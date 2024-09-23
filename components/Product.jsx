@@ -20,6 +20,7 @@ const Product = ({ name, price, onAddProductShop }) => {
                 style={{
                     backgroundColor: '#F5F5DC',
                     border: 'none',
+                    color: 'black',
                     padding: '5px 10px',
                     cursor: 'pointer',
                     borderRadius: '5px',
